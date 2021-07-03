@@ -2,7 +2,7 @@
 from service import PersonService
 
 def main():
-    print("Program starting!")
+    print("Person program starting !")
 
     po = PersonService()
     print("Enter no of the persons : ")
